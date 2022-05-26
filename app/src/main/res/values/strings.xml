@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">login signup project</string>
+    <string-array name="Gender">
+
+    <item name="female" type="string"> female</item>
+    <item name="male" type="string"> male</item>
+    <item name="other" type="string"> other</item>
+
+    </string-array>
+</resources>
